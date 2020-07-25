@@ -9,6 +9,7 @@ namespace GitTrain
         {
             Car car = new Car();
             Car car2 = new Car();
+            Car car3 = new Car();
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World 2!");
         }
@@ -16,6 +17,11 @@ namespace GitTrain
         static void NewCarMethod()
         {
             Console.WriteLine("New method!");
+        }
+
+        static void Method2()
+        {
+            Console.WriteLine("New Method2!");
         }
     }
 }
