@@ -8,7 +8,14 @@ namespace GitTrain
         static void Main(string[] args)
         {
             Car car = new Car();
+            Car car2 = new Car();
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World 2!");
+        }
+
+        static void NewCarMethod()
+        {
+            Console.WriteLine("New method!");
         }
     }
 }
