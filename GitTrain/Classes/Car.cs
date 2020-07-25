@@ -11,5 +11,11 @@ namespace GitTrain.Classes
 
         }
         public int Name { get; set; }
+        public int Id { get; set; }
+
+        public void Do()
+        {
+            Console.WriteLine("Do!");
+        }
     }
 }
