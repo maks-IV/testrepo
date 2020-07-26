@@ -11,11 +11,12 @@ namespace GitTrain.Classes
 
         }
         public int Name { get; set; }
-        public int Id { get; set; }
+        public int CarId { get; set; }
 
         public void Do()
         {
             Console.WriteLine("Do!");
+            Console.WriteLine("Done!");
         }
     }
 }
