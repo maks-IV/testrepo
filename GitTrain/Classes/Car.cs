@@ -10,8 +10,8 @@ namespace GitTrain.Classes
         {
 
         }
-        public int Name { get; set; }
-        public int CarId2 { get; set; }
+        public string Name { get; set; }
+        public int CarId { get; set; }
 
         public void Do()
         {
