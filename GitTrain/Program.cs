@@ -22,9 +22,14 @@ namespace GitTrain
             Console.WriteLine("HELLOW");
         }
 
-        static void Method2()
+        //static void Method2()
+        //{
+        //    Console.WriteLine("New Method2!");
+        //}
+
+        static void Method3()
         {
-            Console.WriteLine("New Method2!");
+            Console.WriteLine("Method 3!");
         }
     }
 }
