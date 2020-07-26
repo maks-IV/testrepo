@@ -11,7 +11,7 @@ namespace GitTrain.Classes
 
         }
         public string Name { get; set; }
-        public int CarId { get; set; }
+        public int CarId2 { get; set; }
 
         public void Do()
         {
