@@ -13,6 +13,9 @@ namespace GitTrain
             Car car4 = new Car();
             Car car5 = new Car();
             Car car6 = new Car();
+            Car car8 = new Car();
+            Car car9 = new Car();
+            Car car10 = new Car();
             car.Name = "Audi";
             Console.WriteLine("Hello World!");
         }
