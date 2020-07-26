@@ -10,5 +10,9 @@ namespace GitTrain.Methods
         {
 
         }
+        public NewMethod(string input)
+        {
+
+        }
     }
 }
