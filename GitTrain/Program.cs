@@ -17,7 +17,8 @@ namespace GitTrain
             Car car9 = new Car();
             Car car10 = new Car();
             car.Name = "Audi";
-            Console.WriteLine("Hello World!");
+            car10.Name = "MITSUBISSI";
+            Console.WriteLine("Hello World!!");
         }
 
         static void NewCarMethodUpdated()
